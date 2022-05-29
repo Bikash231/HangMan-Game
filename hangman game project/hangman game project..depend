@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603492179 source:c:\users\bikash kumar mahanti\documents\hangman game project\hangman game project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+
