@@ -1,2 +1,6 @@
 # HangMan-Game
-This project is designed in WhiteStar UML software. This project have use case , class, sequence, state machine diagrams. On Wizard Land wizards are wandering about. Their goal is to learn as many spells as they can. The text of each spell is written on the wall of a cave. If a wizard wants to learn a spell, he must go into the corresponding cave and read the text of the spell. When a wizard wants to cast a spell, he must have the required amount of manna for the spell. Manna is produced over time by the body of the wizard. However, the maximum amount of manna a wizard can accumulate is limited. If the manna amount reaches this limit, the manna production stops, and is restarted only when the manna amount falls below the limit.
+This is generally a normal hangman game written in C language by using the application of file handling, dynamic
+memory management (link list), and data structures. Which will ask the user a character and then match with
+every character in the random word chosen by the program. And then it will print the character on the screen if
+the character matches with one of the characters in the word. The program will run until the user press 5. If the
+user presses any other number it will show the score and after pressing any key it will exit the program.
